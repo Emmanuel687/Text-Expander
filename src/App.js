@@ -1,3 +1,5 @@
+import "./styles.css"
+
 function App() {
   return (
     <div>
@@ -30,6 +32,9 @@ function App() {
       </TextExpander>
     </div>
   );
+}
+function TextExpander() {
+  return <div>TODO</div>;
 }
 
 export default App;

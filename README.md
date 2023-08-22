@@ -2,6 +2,9 @@
 
 The TextExpander component is a React component that allows you to create expandable and collapsible text sections. It's a handy way to display large blocks of text while keeping the content concise and manageable.
 
+# Image
+![Alt text](<web-screenshot-22-08-2023 (1).jpg>)
+
 # Features
 -Customizable: Easily adjust the number of words shown in the collapsed state, as well as the text for expand and collapse buttons.
 

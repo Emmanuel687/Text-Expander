@@ -11,5 +11,28 @@ The TextExpander component is a React component that allows you to create expand
 
 -Reusability: Use the Text Expander component across various parts of your application to keep content organized and user-friendly.
 
-# Usage
-Use the TextExpander component within your React components to create expandable text sections. Customize the appearance and behavior using props.
+# Props
+-collapsedNumWords: Number of words to show when the content is collapsed. (Default: 10)
+
+-expandButtonText: Text for the expand button. (Default: "Show more")
+
+-collapseButtonText: Text for the collapse button. (Default: "Show less")
+
+-buttonColor: Color of the expand/collapse button. (Default: "#1f09cd")
+
+-expanded: Whether the content should be initially expanded. (Default: false)
+
+-className: Additional CSS class for styling the component.
+
+# Practise Case
+-React Component Composition.
+
+-React Component Reusability.
+
+-React Props (Default Props).
+
+# Contributing
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
